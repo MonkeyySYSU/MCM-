@@ -1,1 +1,8 @@
-lakdjf、
+**写在前面，一定要关注哔站up数学建模交流学习，清风是大佬，学习如何写论文时，可以在他的哔站主页搜索“论文”，找一找对美赛论文写作有帮助的视频。下面列出几个我觉得挺重要的课程（也是清风的视频）。
+
+**Excel画图方法，掌握P45——P50
+https://www.bilibili.com/video/BV1DW411s7wi?p=46&spm_id_from=pageDriver&vd_source=edf31583a74e6cc7e3eed5343664527c
+
+**我看了看“怎么在论文中插入数学公式”，建议在写latex代码时，先用word中的Axmath打出来公式，然后获得latex代码，最后复制到latex中。当然写公式获得latex代码的途径很多，不一定用word中的Axmath，有一个网站直接可以输入公式，得到latex代码，https://latex.codecogs.com/eqneditor/editor.php
+https://www.bilibili.com/video/BV1qt411G7Bv?p=11&vd_source=edf31583a74e6cc7e3eed5343664527c
+
